@@ -302,7 +302,7 @@
 			"name": "type",
 			"required": false,
 			"type": "string",
-			"description": "The MIME media type of the part. Can be a can be valid MIME media type",
+			"description": "The MIME media type of the part. Can be a valid MIME media type",
 			"default": "text/plain",
 			"values": [ "plain", "html", "text", "text/html", "text/plain" ]
 		},
